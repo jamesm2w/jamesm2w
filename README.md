@@ -5,9 +5,6 @@
 <p align="center">
 <a href="https://twitter.com/jamesm2w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jamesm2w" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jamesm2w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamesm2w" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jamesm2w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jamesm2w" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jamesm2w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jamesm2w" height="30" width="40" /></a>
-<a href="https://discord.gg/HR7j5Qk8r4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HR7j5Qk8r4" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
