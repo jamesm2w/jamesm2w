@@ -1,0 +1,74 @@
+baseurl = "/"
+title = "jamesm2w"
+theme = "hugo-coder"
+languagecode = "en-gb"
+defaultcontentlanguage = "en-gb"
+
+paginate = 20
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+
+[params]
+  author = "James Macer-Wright"
+  info = "Computer Scientist & Software Engineer"
+  description = "jamesm2w's personal website"
+  keywords = "blog,developer,personal,portfolio"
+  gravatar = "avatar@jamesm2w.me"
+
+  since = 2022
+  
+  favicon_32 = "/favicon-32x32.png"
+  favicon_16 = "/favicon-16x16.png"
+  touchIcon = "/apple-touch-icon.png"
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hideColorSchemeToggle = false
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/jamesm2w/"
+  target = "_blank"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 2
+  url = "https://www.linkedin.com/in/jamesm2w/"
+  target = "_blank"
+[[params.social]]
+  name = "Instagram"
+  icon = "fa fa-instagram fa-2x"
+  weight = 3
+  url = "https://instagram.com/jamesm2w/"
+  target = "_blank"
+[[params.social]]
+  name = "Email"
+  icon = "fa fa-envelope fa-2x"
+  weight = 4
+  url = "mailto:me@jamesm2w.me"
+  target = "_blank"
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "https://code.jamesm2w.me/"
+[[menu.main]]
+  name = "Showcase"
+  weight = 2
+  url = "https://portfolio.jamesm2w.me/"
+[[menu.main]]
+  name = "Github"
+  weight = 3
+  url = "https://github.jamesm2w.me/"
