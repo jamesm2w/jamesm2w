@@ -14,7 +14,7 @@
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/jamesm2w) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/jamesm2w) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@jamesm2w) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/jamesm2w) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge)](https://youtube.com/c/UCoGBLBgShbsbhj5yCejLDUQ) 
+[![Email](https://img.shields.io/badge/email-%23EA4335.svg?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:me@jamesm2w.me) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/jamesm2w) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/jamesm2w) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@jamesm2w) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/jamesm2w) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge)](https://youtube.com/c/UCoGBLBgShbsbhj5yCejLDUQ) 
 </div>
 
 <div align="center">
