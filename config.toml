@@ -61,14 +61,14 @@ pygmentscodefencesguesssyntax = true
 
 # Menu links
 [[menu.main]]
-  name = "Blog"
+  name = "Code Diary"
   weight = 1
   url  = "https://code.jamesm2w.me/"
 [[menu.main]]
-  name = "Showcase"
+  name = "Projects Index"
   weight = 2
   url = "https://portfolio.jamesm2w.me/"
 [[menu.main]]
-  name = "Github"
+  name = "Github Root"
   weight = 3
   url = "https://github.jamesm2w.me/"
