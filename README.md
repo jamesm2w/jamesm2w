@@ -2,7 +2,7 @@
 <h3 align="center">Currently a Software Engineer / Computer Scientist</h3>
 <h6 align="center" style="margin-top:0">(and taking suggestions on which one sounds better)</h6>
 
-<h3 align="center">Why not check out <code><a href="https://github.com/wash-dsl/wash" target="_blank">wash</a></code>? A DSL for SPH applications in C++.</h3>
+<h3 align="center">Why not check out <code><a href="https://github.com/wash-dsl/wash" target="_blank">wash</a></code>? A DSL for SPH applications in C++. <a href="https://wash-dsl.github.io/wash-docs/md_markdown_example_usecase.html">What's that?</a></h3>
 
 <h3 align="center">Alternatively, check out <code><a href="https://github.com/jamesm2w/odbrs" target="_blank">odbrs</a></code>. A simulation of DRT networks against traditional bus networks in Rust.</h3>
 
